@@ -2,6 +2,11 @@
 
 Build a weather app in react js using Open Weather API.
 
+There are many different types of APIs. One of the most common types, and some of the easiest to use, are weather APIs. Weather APIs pair nicely with geolocation APIs and some actually use geolocation behind the scenes. Most give back easy to understand data that can be impressively cheap to access.
+
+My app is going to make an HTTP call to a weather API to retrieve data whenever a user enters a city into a form. I have used conditional logic, styling, spinners, and error handling to improve the user experience as developer wait for that HTTP call to return the data. 
+
+
 ## Follow Below Instructions:
 
 #### Use This command in cmd or terminal to download starter-code file:
